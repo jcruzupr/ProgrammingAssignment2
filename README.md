@@ -1,3 +1,5 @@
+NOTE/Update: The file "HW_2 Sample Run" provides examples of usage.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
@@ -15,7 +17,7 @@ of an R object.
 ### Example: Caching the Mean of a Vector
 
 In this example we introduce the `<<-` operator which can be used to
-assign a value to an object in an environment that is different from the
+assign a value to an object in an environment that is different from thepr
 current environment. Below are two functions that are used to create a
 special object that stores a numeric vector and caches its mean.
 
