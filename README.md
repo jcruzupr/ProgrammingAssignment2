@@ -1,4 +1,4 @@
-NOTE/Update: The file "HW_2 Sample Run" provides examples of usage.
+### NOTE/Update: The file "HW_2 Sample Run.txt" provides examples of usage.
 
 ### Introduction
 
